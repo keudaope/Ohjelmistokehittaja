@@ -1,0 +1,14 @@
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\bin\Debug\netcoreapp3.1\ehtolauseita.exe
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\bin\Debug\netcoreapp3.1\ehtolauseita.deps.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\bin\Debug\netcoreapp3.1\ehtolauseita.runtimeconfig.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\bin\Debug\netcoreapp3.1\ehtolauseita.runtimeconfig.dev.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\bin\Debug\netcoreapp3.1\ehtolauseita.dll
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\bin\Debug\netcoreapp3.1\ehtolauseita.pdb
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.AssemblyInfo.cs
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.dll
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.pdb
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\ehtolauseita\ehtolauseita\obj\Debug\netcoreapp3.1\ehtolauseita.genruntimeconfig.cache

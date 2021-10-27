@@ -1,0 +1,14 @@
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\bin\Debug\netcoreapp3.1\Laskutehtavia.exe
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\bin\Debug\netcoreapp3.1\Laskutehtavia.deps.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\bin\Debug\netcoreapp3.1\Laskutehtavia.runtimeconfig.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\bin\Debug\netcoreapp3.1\Laskutehtavia.runtimeconfig.dev.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\bin\Debug\netcoreapp3.1\Laskutehtavia.dll
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\bin\Debug\netcoreapp3.1\Laskutehtavia.pdb
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.AssemblyInfo.cs
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.dll
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.pdb
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Laskutehtavia\Laskutehtavia\obj\Debug\netcoreapp3.1\Laskutehtavia.genruntimeconfig.cache

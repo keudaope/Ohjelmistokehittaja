@@ -1,0 +1,14 @@
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\bin\Debug\netcoreapp3.1\Metodeja.exe
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\bin\Debug\netcoreapp3.1\Metodeja.deps.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\bin\Debug\netcoreapp3.1\Metodeja.runtimeconfig.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\bin\Debug\netcoreapp3.1\Metodeja.runtimeconfig.dev.json
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\bin\Debug\netcoreapp3.1\Metodeja.dll
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\bin\Debug\netcoreapp3.1\Metodeja.pdb
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.csproj.AssemblyReference.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.AssemblyInfo.cs
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.dll
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.pdb
+C:\Users\jyrili\source\repot\Ohjelmistokehittaja\Metodeja\Metodeja\obj\Debug\netcoreapp3.1\Metodeja.genruntimeconfig.cache
